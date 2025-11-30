@@ -19,3 +19,7 @@
 19 checkout mian
 20 stash apply
 21 add + commit
+26 git tag pasosExtra
+27 checkout main
+28 cherry-pick dc3fc01f7177194d7aede04f00e6c49a33f11dd8
+29 add + commit
