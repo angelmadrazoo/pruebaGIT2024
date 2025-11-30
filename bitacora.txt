@@ -10,4 +10,5 @@
 2 modificar bitacora
 3 git add + commit
 4 git brach primerarama + checkout
-
+5 git add + commit
+6 git branch segundarama + checkout
