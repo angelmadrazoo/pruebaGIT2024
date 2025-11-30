@@ -8,3 +8,6 @@
 ====== ============================ ================================
 1 git clone
 2 modificar bitacora
+3 git add + commit
+4 git brach primerarama + checkout
+
