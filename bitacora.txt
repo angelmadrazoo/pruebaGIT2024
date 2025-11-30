@@ -8,3 +8,14 @@
 ====== ============================ ================================
 1 git clone
 2 modificar bitacora
+3 git add + commit
+4 git brach primerarama + checkout
+5 git add + commit
+6 git branch segundarama + checkout
+8 git push origin segundaRama
+9 git checkout develop
+17 git checkout primeraRama
+18. git merge --no-ff segundaRama
+19 checkout mian
+20 stash apply
+21 add + commit
